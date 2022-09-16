@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsiteProject_AlexandrShor/static/css/main.918415ce.css",
-    "main.js": "/PortfolioWebsiteProject_AlexandrShor/static/js/main.043f51be.js",
-    "static/js/787.37faa4c4.chunk.js": "/PortfolioWebsiteProject_AlexandrShor/static/js/787.37faa4c4.chunk.js",
-    "index.html": "/PortfolioWebsiteProject_AlexandrShor/index.html",
-    "main.918415ce.css.map": "/PortfolioWebsiteProject_AlexandrShor/static/css/main.918415ce.css.map",
-    "main.043f51be.js.map": "/PortfolioWebsiteProject_AlexandrShor/static/js/main.043f51be.js.map",
-    "787.37faa4c4.chunk.js.map": "/PortfolioWebsiteProject_AlexandrShor/static/js/787.37faa4c4.chunk.js.map"
+    "main.css": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/css/main.918415ce.css",
+    "main.js": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/js/main.1ad6c8cb.js",
+    "static/js/787.37faa4c4.chunk.js": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/js/787.37faa4c4.chunk.js",
+    "index.html": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/index.html",
+    "main.918415ce.css.map": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/css/main.918415ce.css.map",
+    "main.1ad6c8cb.js.map": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/js/main.1ad6c8cb.js.map",
+    "787.37faa4c4.chunk.js.map": "/PortfolioWebsiteProject_AlexandrShor/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.918415ce.css",
-    "static/js/main.043f51be.js"
+    "static/js/main.1ad6c8cb.js"
   ]
 }
